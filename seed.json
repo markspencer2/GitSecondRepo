@@ -1,8 +1,25 @@
 {
   "jobs": [
     {
-      "repositoryName": "testrepo344",
+      "repositoryName": "testrepo1",
+      "emailingList": "test@email.com"
+    },
+        {
+      "repositoryName": "testrepo2",
+      "emailingList": "test@email.com"
+    },
+        {
+      "repositoryName": "testrepo3",
+      "emailingList": "test@email.com"
+    },
+        {
+      "repositoryName": "testrepo4",
+      "emailingList": "test@email.com"
+    },
+        {
+      "repositoryName": "testrepo6",
       "emailingList": "test@email.com"
     }
+    
 ]
 }
