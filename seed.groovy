@@ -22,6 +22,7 @@ data2.jobs.each
         parameters {
             stringParam('Name', 'DefaultValue', 'This is a first parameter')
             stringParam('Age', '30', 'This is a second parameter')
+          stringParam('test', '1233430', 'This is a second parameter')
         }
         label('master')
     steps {
