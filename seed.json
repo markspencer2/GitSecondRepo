@@ -19,7 +19,20 @@
         {
       "repositoryName": "testrepo6",
       "emailingList": "test@email.com"
+    },
+            {
+      "repositoryName": "testrepo31",
+      "emailingList": "test@email.com"
+    },
+        {
+      "repositoryName": "testrepo42",
+      "emailingList": "test@email.com"
+    },
+        {
+      "repositoryName": "testrepo64",
+      "emailingList": "test@email.com"
     }
+    
     
 ]
 }
